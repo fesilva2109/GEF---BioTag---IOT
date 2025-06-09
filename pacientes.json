@@ -1,0 +1,108 @@
+[
+  {
+    "id": "p-1",
+    "name": "Maria Silva",
+    "address": "Rua maria antônia ",
+    "bracelet": {
+      "id": "NFC000123",
+      "nfc": {
+        "id": "NFC000123",
+        "information": [
+          "Nome: Maria Silva",
+          "Abrigo: Igreja São Francisco"
+        ]
+      },
+      "iotHeartRate": {
+        "id": "HR000123",
+        "bpm": 80,
+        "timestamp": 1749133335943
+      }
+    },
+    "shelterId": "shelter-5",
+    "createdAt": 1717510000000,
+    "updatedAt": 1749133335943
+  },
+  {
+    "id": "p-2",
+    "name": "João Santos",
+    "address": {
+      "street": ", , ",
+      "suite": "",
+      "city": ""
+    },
+    "bracelet": {
+      "id": "NFC000124",
+      "nfc": {
+        "id": "NFC000124",
+        "information": [
+          "Nome: João Santos",
+          "Abrigo: Escola Municipal Anchieta",
+          "Observações: Paciente com hipertensão"
+        ]
+      },
+      "iotHeartRate": {
+        "id": "HR000124",
+        "bpm": 105,
+        "timestamp": 1717518200000
+      }
+    },
+    "shelterId": "shelter-2",
+    "createdAt": 1717430000000,
+    "updatedAt": 1717518200000
+  },
+  {
+    "id": "p-3",
+    "name": "Ana Oliveira",
+    "address": {
+      "street": ", , ",
+      "suite": "",
+      "city": ""
+    },
+    "bracelet": {
+      "id": "NFC000125",
+      "nfc": {
+        "id": "NFC000125",
+        "information": [
+          "Nome: Ana Oliveira",
+          "Abrigo: Ginásio Ibirapuera"
+        ]
+      },
+      "iotHeartRate": {
+        "id": "HR000125",
+        "bpm": 119,
+        "timestamp": 1749426907309
+      }
+    },
+    "shelterId": "shelter-3",
+    "createdAt": 1717340000000,
+    "updatedAt": 1749426907309
+  },
+  {
+    "id": "p-4",
+    "name": "Carlos Pereira",
+    "address": {
+      "street": ", , ",
+      "suite": "",
+      "city": ""
+    },
+    "bracelet": {
+      "id": "NFC000126",
+      "nfc": {
+        "id": "NFC000126",
+        "information": [
+          "Nome: Carlos Pereira",
+          "Abrigo: Centro Comunitário Zona Leste",
+          "Observações: Paciente com diabetes"
+        ]
+      },
+      "iotHeartRate": {
+        "id": "HR000126",
+        "bpm": 127,
+        "timestamp": 1749235585362
+      }
+    },
+    "shelterId": "shelter-4",
+    "createdAt": 1717250000000,
+    "updatedAt": 1749235585362
+  }
+]
