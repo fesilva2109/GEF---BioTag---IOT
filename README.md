@@ -19,7 +19,7 @@ O backend fornece um arquivo JSON ([pacientes.json](pacientes.json)) que represe
 **Exemplo de estrutura NFC no JSON:**
 ```json
 {
-  "id": "p-1",
+  "id": "1",
   "name": "Maria Silva",
   "address": "Rua maria antônia ",
   "bracelet": {
