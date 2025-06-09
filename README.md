@@ -17,7 +17,7 @@ GEF-BioTag é uma solução desenvolvida para a disciplina de Arquiteturas Disru
 O backend fornece um arquivo JSON ([pacientes.json](pacientes.json)) que representa os pacientes cadastrados. Cada paciente possui informações pessoais, endereço, dados do abrigo, pulseira NFC e monitoramento cardíaco. 
 
 **Exemplo de estrutura NFC no JSON:**
-
+'''
 "bracelet": {
   "id": "NFC000123",
   "nfc": {
@@ -33,7 +33,7 @@ O backend fornece um arquivo JSON ([pacientes.json](pacientes.json)) que represe
     "timestamp": 1749133335943
   }
 }
-
+'''
 **Destaque:**
 A pulseira NFC contém um campo id e um array information com os dados do paciente, permitindo rápida identificação e acesso às informações essenciais em situações críticas.
 
