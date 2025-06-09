@@ -46,9 +46,9 @@ O backend fornece um arquivo JSON ([pacientes.json](pacientes.json)) que represe
 A pulseira NFC contém um campo id e um array information com os dados do paciente, permitindo rápida identificação e acesso às informações essenciais em situações críticas.
 
 **Equipe**
-Eduardo Henrique Strapazzon Nagado - RM558158
-Felipe Silva Maciel - RM555307
-Gustavo Ramires Lazzuri - RM556772
+- Eduardo Henrique Strapazzon Nagado - RM558158
+- Felipe Silva Maciel - RM555307
+- Gustavo Ramires Lazzuri - RM556772
 
 **Link da Apresentação**
 Assista no YouTube: https://youtu.be/Frx5oA6V2Wg?si=pczefpLX0xAd4wab
